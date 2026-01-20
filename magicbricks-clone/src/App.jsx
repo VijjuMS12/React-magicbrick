@@ -2,9 +2,9 @@
 
  import './App.css' ;
 
-import Navbar from './components/Navbar/Navbar';
-import Search from './components/Search/Search';
-import Cards from './components/Cards/Cards';
+import Navbar from './Components/Navbar/Navbar';
+import Search from './Components/Search/Search';
+import Cards from './Components/Cards/Cards';
 
 function App(){
  

@@ -1,11 +1,12 @@
 
 
- import './App.css' 
+ import './App.css' ;
 
- import Navbar from './Components/Navbar/Navbar';
- import Search from './Components/Search/Search';
- import Cards from './Components/Cards/Cards';
- function App(){
+import Navbar from './components/Navbar/Navbar';
+import Search from './components/Search/Search';
+import Cards from './components/Cards/Cards';
+
+function App(){
  
 
     return (
@@ -16,4 +17,4 @@
         </>
     )
  }
- export default App
+ export default App;
